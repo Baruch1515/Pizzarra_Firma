@@ -20,7 +20,7 @@ https://programacion.net/articulo/convertir_de_html_a_pdf_utilizando_javascript_
 
 Cómo convertir una página HTML a PDF entonces descargarlo?<br>
 NOTA: De aqui saque para generar el documento pdf<br>
-https://www.it-swarm.dev/es/javascript/ como-convertir-una-pagina-html-pdf-entonces-descargarlo/834786198/<br>
+https://www.it-swarm.dev/es/javascript/como-convertir-una-pagina-html-pdf-entonces-descargarlo/834786198/<br>
 This program is free software: you can redistribute it and/or modify<br>
 it under the terms of the GNU General Public License as published by<br>
 the Free Software Foundation, either version 3 of the License, or<br>
