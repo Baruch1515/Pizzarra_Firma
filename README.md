@@ -4,7 +4,7 @@ E-mail:       ernestobaruch15@gmail.com<br>
 WhatsApp:     (+57)302 3342189<br><br>
 
 Con el apoyo de Oscar Gonzalez<br>
-GitHub:       https://github.com/OscarGonzalez1987/<br>
+GitHub:       https://github.com/OscarGonzalezADSI/<br>
 E-mail:       oigonzalezp@gmail.com<br>
 WhatsApp:     (+57)322 8858439<br><br>
 
