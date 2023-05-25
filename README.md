@@ -1,7 +1,7 @@
 Copyright (C) 2020 Ernesto Baruch<br>
 GitHub:       https://github.com/Baruch13<br>
 E-mail:       ernestobaruch15@gmail.com<br>
-WhatsApp:     (+57)302 3342189<br><br>
+WhatsApp:     (+57)311 711748<br><br>
 
 Con el apoyo de Oscar Gonzalez<br>
 GitHub:       https://github.com/OscarGonzalez1987/<br>
